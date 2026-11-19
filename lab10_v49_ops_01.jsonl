@@ -1,0 +1,7 @@
+{"op":"MOVE","id":591,"group":"TEAM"}
+{"op":"ADJUST","id":591,"da":1,"db":0}
+{"op":"ADD","record":{"id":9049,"group":"TEAM","a":20,"b":30}}
+{"op":"ADD","record":{"id":9049,"group":"TEAM","a":20,"b":30}}
+{"op":"DELETE","id":601}
+{"op":"MOVE","id":9999,"group":"B"}
+{"op":"ADJUST","id":591,"da":-10000,"db":0}
